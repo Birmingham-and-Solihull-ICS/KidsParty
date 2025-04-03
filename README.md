@@ -16,6 +16,8 @@ ___Let's plan a kids birthday party...___
 ![GitHub - pull request diagram](/assets/images/github_mechanics.png)
 
 
+Reference slides and git commands: https://birmingham-and-solihull-ics.github.io/intro_to_git/intro_slides.html#1
+
 ## GitHub jargon 
 
 + Issues: the place to record all questions and queries relating to the repository
