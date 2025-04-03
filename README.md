@@ -41,10 +41,10 @@ Set up a plan and assign some responsibilities.
 + Party planner (you are going to be the boss of the planning elements)  -  you can also be part of another team
 
 
-+ Team __Invitations__
-+ Team __Catering__
-+ Team __Games__
-+ Master of Ceremonies / Dugeon Master / Bringer of Mayhem...  (Other titles for 'organiser are also valid')
++ __Team Invitations__
++ __Team Catering__
++ __Team __Games__
++ Master of Ceremonies / Dugeon Master / Bringer of Mayhem...  (Other titles/insults for 'organiser' are also valid)
 
 Please divide yourself up into teams (one person in a team is ok.)
 
