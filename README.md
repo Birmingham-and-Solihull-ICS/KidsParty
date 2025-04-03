@@ -30,6 +30,7 @@ Reference slides and git commands: https://birmingham-and-solihull-ics.github.io
 # Activities
 
 We are meeting on the 04/07/2025, and we are planning a kids party for 26/04/2025.
+
 Your venue is the Village Hall, at 11 a.m.
 
 We need to adopt a few roles, and figure out and/plan and decide on a few tasks.
