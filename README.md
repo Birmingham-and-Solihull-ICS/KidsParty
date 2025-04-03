@@ -20,10 +20,11 @@ Reference slides and git commands: https://birmingham-and-solihull-ics.github.io
 
 ## GitHub jargon 
 
-+ Issues: the place to record all questions and queries relating to the repository
-+ Wiki: a place to record infromation about the project in a structured way.
-+ Actions: a mechanism to run code and automation jobs.  Not used in this exercise.
-+ Projects: a project management section to organised jobs.  Can convert issues.
++ __Issues:__ the place to record all questions and queries relating to the repository
++ __Wiki:__ a place to record infromation about the project in a structured way.
++ __Actions:__ a mechanism to run code and automation jobs.  Not used in this exercise.
++ __Projects:__ a project management section to organised jobs.  Can convert issues.
++ __Pull-request:__ a request from you to have your code (in your fork) pulled into the main repository (bsol one in this case). Pull requests are checked and approved before merging.
 
 
 # Activities
