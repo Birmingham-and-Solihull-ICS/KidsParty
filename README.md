@@ -1,6 +1,7 @@
 # Kids Party
 
 This is a training excerise for GitHub.  We are doing something a bit daft, rather than using production code to learn.
+So no Python / R / SQL etc. today.
 
 ___Let's plan a kids birthday party...___
 
@@ -15,7 +16,12 @@ ___Let's plan a kids birthday party...___
 ![GitHub - pull request diagram](/assets/images/github_mechanics.png)
 
 
+## GitHub jargon 
 
++ Issues: the place to record all questions and queries relating to the repository
++ Wiki: a place to record infromation about the project in a structured way.
++ Actions: a mechanism to run code and automation jobs.  Not used in this exercise.
++ Projects: a project management section to organised jobs.  Can convert issues.
 
 
 # Activities
@@ -24,15 +30,23 @@ We are meeting on the 04/07/2025, and we are planning a kids party for 26/04/202
 Your venue is the Village Hall, at 11 a.m.
 
 We need to adopt a few roles, and figure out and/plan and decide on a few tasks.
+Set up a plan and assign some responsibilities.
 
 ## Roles
+
 + Party planner (you are going to be the boss of the planning elements)  -  you can also be part of another team
-+ Team __Inivitations__
+
+
++ Team __Invitations__
 + Team __Catering__
 + Team __Games__
 + Master of Ceremonies / Dugeon Master / Bringer of Mayhem...  (Other titles for 'organiser are also valid')
 
 Please divide yourself up into teams (one person in a team is ok.)
+
+
+
+
 
 ## Activities
 
@@ -44,9 +58,9 @@ Please divide yourself up into teams (one person in a team is ok.)
 ### Team Invitations
 
 + Create a list of 12 names for invitations to your party (load to GitHub).
-+ Create an issue with a tick list for each name and tick them off as you recieve replies (from CM)
++ Create an issue/project task with a tick list for each name and tick them off as you recieve replies (from CM)
 + Create a simple markdown file (or whatever you like) as an invitation template and commit it to GitHub.
-+ Respond to anything that changes, making commits/changes as you go.
++ Respond to any issue that might need changes, making commits/pull requests as you go.
 
 
 ### Team Catering
@@ -60,4 +74,18 @@ Please divide yourself up into teams (one person in a team is ok.)
 
 
 
+### Team Games
 
++ Decide on a couple of party games, and create an issue / project task in the planner for each of them.  They can be sub-issues of a 'games' issue.
++ Take one game for each member of you team and write a set of instructions, and save as an `.md` file.
+
+
+
+# Principles
+
++ It's a bit of fun.  We'll all get it wrong, but it's worth exploring in a low-stakes setting.
++ When using issues / project tasks, remeber to categorise and assign people to them.
++ Remeber to make changes: `git add`, `git commit`, `git push` to get them into your fork.
++ Remeber to 'contribute' or open a 'pull request' to integrate your changes to the main project.
+
+__Ask CM for help if needed.  It's no bother__
