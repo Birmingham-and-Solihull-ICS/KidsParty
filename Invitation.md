@@ -1,4 +1,4 @@
-# You're invited to a Kids Psrty!
+# You're invited to a Kids Party!
 
 
 Hey there!
@@ -6,7 +6,7 @@ Hey there!
 Get ready for an awesome day filled with games, laughter, cake, and loads of fun! We're throwing a party and you’re invited to join the celebration!
 
 Date: 26/04/2025
-Time: 11 AM
+Time: 12 PM
 Place: Village Hall
 Theme: Space
 
