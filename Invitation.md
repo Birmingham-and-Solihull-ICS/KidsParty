@@ -1,4 +1,4 @@
-# You're invited to a Kids Psrty!
+# You're invited to a Kids Party!
 
 
 Hey there!
